@@ -1,4 +1,3 @@
-# Employee-Salary-Prediction-Model
 # Employee Salary Prediction Model
 
 This repository contains a machine learning model that predicts employee salaries based on features such as education, experience, job role, and industry. It demonstrates data preprocessing, model training, evaluation, and deployment readiness.
